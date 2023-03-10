@@ -1,8 +1,7 @@
 ### Hi there 👋
-
+![logo](https://github.com/pablohg2023/pablohg2023/blob/main/assets/black-and-white-cat-compressed.jpg?raw=true)
 <!--
 **pablohg2023/pablohg2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![logo](https://github.com/pablohg2023/pablohg2023/blob/main/assets/black-and-white-cat-compressed.jpg?raw=true)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
