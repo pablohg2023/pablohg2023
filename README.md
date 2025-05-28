@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  👨‍💻 Máster en Inteligencia Artificial y Big Data (Tajamar) | 💡 Apasionado por los datos y la IA | 🌍 Basado en Madrid
+  👨‍💻 Máster en Inteligencia Artificial y Big Data
 </p>
 
 ---
@@ -59,6 +59,6 @@ Me encanta resolver problemas complejos, colaborar con otros y aprender nuevas h
 
 - 📧 pablohg2014@gmail.com  
 - 📍 Madrid, España  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/pablo-herrera-gomez/) *(añade tu enlace personalizado si tienes uno)*  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/pablo-herrera-gomez/)
 
 ---
