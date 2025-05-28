@@ -11,7 +11,7 @@
 
 ## 👋 Sobre Mí
 
-¡Hola! Soy Pablo, un apasionado de la tecnología, especialmente de la inteligencia artificial, el análisis de datos y la creación de soluciones con impacto real.  
+Apasionado de la tecnología, especialmente de la inteligencia artificial, el análisis de datos y la creación de soluciones con impacto real.  
 Me encanta resolver problemas complejos, colaborar con otros y aprender nuevas herramientas que me permitan crecer profesional y personalmente.
 
 ---
