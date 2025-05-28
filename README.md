@@ -1,64 +1,78 @@
-# 👋 ¡Hola! Soy Pablo
+<!-- Encabezado con imagen opcional -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E4D92&height=180&section=header&text=Hola,%20soy%20Pablo%20Herrera!&fontSize=35&fontColor=ffffff" alt="banner" />
+</p>
 
-Graduado del **Máster en Inteligencia Artificial y Big Data**, formación que me ha permitido especializarme en áreas clave como el procesamiento de grandes volúmenes de datos, algoritmos de machine learning, redes neuronales, análisis predictivo y la implementación de soluciones inteligentes.
-
-**Técnico Superior en Desarrollo de Aplicaciones Multiplataforma**, lo que me proporciona una base sólida en programación y desarrollo de software.
-
----
-
-## 🛠️ Habilidades Técnicas
-
-- **Lenguajes de programación:** Python, Java, C#
-- **Frameworks de desarrollo:** .NET, TensorFlow, Keras
-- **Bases de datos:**
-  - Relacionales: MySQL, Oracle
-  - No relacionales: MongoDB, MariaDB
-- **Big Data y análisis de datos:** Hadoop, Apache Spark, Pandas, Numpy
-- **Inteligencia Artificial:** Machine Learning, Deep Learning, Análisis de Datos Masivos, NLP
-- **Metodologías ágiles:** Scrum
-- **Control de versiones:** Git
+<p align="center">
+  👨‍💻 Máster en Inteligencia Artificial y Big Data (Tajamar) | 💡 Apasionado por los datos y la IA | 🌍 Basado en Madrid
+</p>
 
 ---
 
-## 💼 Experiencia
+## 👋 Sobre Mí
 
-- **📊 Proyecto Académico (Máster):**  
-  Implementación de soluciones basadas en *machine learning* y *deep learning* para la predicción de patrones en grandes conjuntos de datos. Desarrollo de modelos de clasificación y regresión aplicados a datos estructurados y no estructurados.
+¡Hola! Soy Pablo, un apasionado de la tecnología, especialmente de la inteligencia artificial, el análisis de datos y la creación de soluciones con impacto real.  
+Me encanta resolver problemas complejos, colaborar con otros y aprender nuevas herramientas que me permitan crecer profesional y personalmente.
 
-- **💻 Prácticas Profesionales en Inetum:**  
-  Colaboración como Desarrollador .NET en el área de escalabilidad. Desarrollo y mantenimiento de aplicaciones empresariales utilizando **C#** y **.NET**.
-
----
-
-## 🏆 Logros y Certificaciones
-
-- 🎓 **Máster en Inteligencia Artificial y Big Data**
-- 📱 **Grado Superior en Desarrollo de Aplicaciones Multiplataforma**
-- 🧠 **Certificaciones Oficiales:**
-  - Microsoft Certified: Azure Data Engineer Associate
-  - Microsoft Certified: Azure AI Engineer Associate
+Actualmente, estoy finalizando mis estudios en IA y Big Data, y ya he trabajado en proyectos aplicando machine learning, pipelines de datos, visualización interactiva y automatización en la nube.
 
 ---
 
-## 🙋 Sobre Mí
+## 🧠 Habilidades Técnicas
 
-Soy una persona **proactiva**, **orientada al detalle** y con una fuerte **capacidad analítica**. Me apasiona la resolución de problemas complejos y el trabajo en equipo. Disfruto afrontar nuevos desafíos, especialmente en el ámbito de la inteligencia artificial y el análisis de grandes volúmenes de datos.
+### 🗃️ Bases de Datos
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat)
+![MariaDB](https://img.shields.io/badge/-MariaDB-003545?logo=mariadb&logoColor=white&style=flat)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
 
-Siempre estoy en búsqueda de oportunidades para **aprender** y **crecer profesionalmente**.
+### 🧑‍💻 Lenguajes de Programación
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
+![SQL](https://img.shields.io/badge/-SQL-336791?logo=sqlite&logoColor=white&style=flat)
+
+### 📊 Visualización de Datos
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black&style=flat)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=python&logoColor=white&style=flat)
+![Seaborn](https://img.shields.io/badge/-Seaborn-7ABFDD?logo=python&logoColor=white&style=flat)
+
+### ⚙️ Frameworks y Librerías
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)
+![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white&style=flat)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=flat)
+![Spark](https://img.shields.io/badge/-PySpark-E25A1C?logo=apachespark&logoColor=white&style=flat)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat)
+
+### ☁️ Cloud & Herramientas
+![Azure](https://img.shields.io/badge/-Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=white&style=flat)
+![Databricks](https://img.shields.io/badge/-Databricks-EF3E42?logo=databricks&logoColor=white&style=flat)
+![Apache](https://img.shields.io/badge/-Apache-231F20?logo=apache&logoColor=white&style=flat)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?logo=azuredevops&logoColor=white&style=flat)
 
 ---
 
-## 📬 Contacto
+## 📁 Repositorios Destacados
 
-Estoy abierto a nuevas oportunidades en:
+🔍 Proyectos de machine learning y análisis de datos  
+📊 Dashboards y visualización interactiva  
+⚙️ Automatización de pipelines y procesamiento en la nube
 
-- Inteligencia Artificial  
-- Análisis de Datos  
-- Desarrollo de Software
-
-**📧 Email:** pablohg2014@gmail.com  
-**🔗 LinkedIn:** [pablo-herrera-gomez](https://www.linkedin.com/in/pablo-herrera-gomez/)
+➡️ Échales un vistazo en [github.com/pablohg2023](https://github.com/pablohg2023?tab=repositories)
 
 ---
 
-¡Gracias por visitar mi perfil!
+## 📫 Contacto
+
+- 📧 pablohg2014@gmail.com  
+- 📍 Madrid, España  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/pablo-herrera-gomez/) *(añade tu enlace personalizado si tienes uno)*  
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pablohg2023&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pablohg2023&theme=tokyonight" alt="GitHub Streak" />
+</p>
