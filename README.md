@@ -14,8 +14,6 @@
 ¡Hola! Soy Pablo, un apasionado de la tecnología, especialmente de la inteligencia artificial, el análisis de datos y la creación de soluciones con impacto real.  
 Me encanta resolver problemas complejos, colaborar con otros y aprender nuevas herramientas que me permitan crecer profesional y personalmente.
 
-Actualmente, estoy finalizando mis estudios en IA y Big Data, y ya he trabajado en proyectos aplicando machine learning, pipelines de datos, visualización interactiva y automatización en la nube.
-
 ---
 
 ## 🧠 Habilidades Técnicas
@@ -53,12 +51,6 @@ Actualmente, estoy finalizando mis estudios en IA y Big Data, y ya he trabajado 
 
 ---
 
-## 📁 Repositorios Destacados
-
-🔍 Proyectos de machine learning y análisis de datos  
-📊 Dashboards y visualización interactiva  
-⚙️ Automatización de pipelines y procesamiento en la nube
-
 ➡️ Échales un vistazo en [github.com/pablohg2023](https://github.com/pablohg2023?tab=repositories)
 
 ---
@@ -70,9 +62,3 @@ Actualmente, estoy finalizando mis estudios en IA y Big Data, y ya he trabajado 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/pablo-herrera-gomez/) *(añade tu enlace personalizado si tienes uno)*  
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pablohg2023&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pablohg2023&theme=tokyonight" alt="GitHub Streak" />
-</p>
